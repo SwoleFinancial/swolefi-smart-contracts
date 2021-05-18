@@ -8,6 +8,7 @@ This repo consists of Solidity based smart contracts designed specifically for i
 * Token contract
 * DeFi swap - personal "wallet" functions
 * Integration with ChainLink for off-chain Oracle (e.g. Fitbit, Apple Health)
+  *  This "Oracle" is otherwise known as a blockchain middleware
 
 ## Other
 
